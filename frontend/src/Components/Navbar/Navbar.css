@@ -30,10 +30,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-   justify-content: center;
-   gap: 3px;
-   cursor: pointer;
+    justify-content: center;
+    gap: 3px;
+    cursor: pointer;
 }
+
 .nav-menu hr{
     border: none;
     width: 90%;
@@ -49,11 +50,11 @@
 
 .nav-login-card button{
     width: 157px;
-    height: 60px;
+    height: 50px;
     outline: none;
     border: 1px solid black;
     border-radius: 75px;
-    color: #515151;
+    color: black;
     font-size: 20px;
     font-weight: 500;
     background: white;
